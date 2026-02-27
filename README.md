@@ -1,5 +1,10 @@
-git-practice-shahriar
+# git practise project
 
+# created by
 MD. shahriar parvez
 
-this project print my name and today's date
+# discription
+This project is for practicing Git branching
+
+## Features
+- Basic calculator functions
